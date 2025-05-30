@@ -1,27 +1,36 @@
-<VAST version="3.0">
-<Ad id="2555424">
+<VAST version="2.0">
+<Ad id="preroll-1">
 <InLine>
-<AdSystem>Clickadu</AdSystem>
-<AdTitle>Clickadu Advertisement</AdTitle>
-<Extensions>
-<Extension type="waterfall" fallback_index="0"/>
-</Extensions>
-<AdTitle/>
+<AdSystem>2.0</AdSystem>
+<AdTitle>sbbanner</AdTitle>
+<Impression id="sbbanner">
+<![CDATA[ ]]>
+</Impression>
 <Creatives>
-<Creative sequence="1" id="3444567" AdID="2555423">
-<Linear skipoffset="00:00:05.000">
-<Duration>00:00:10.000</Duration>
+<Creative>
+<Linear>
+<Duration>00:01:13</Duration>
+<TrackingEvents> </TrackingEvents>
 <VideoClicks>
-<ClickThrough>
+<ClickThrough id="scanscout">
 <![CDATA[ https://6789x.site/ad9namei140 ]]>
 </ClickThrough>
 </VideoClicks>
-
-<MediaFile delivery="progressive" type="video/mp4" bitrate="2400" width="1280" height="720">
-<![CDATA[ https://p-tok1.pcloud.com/cBZSf3hFcZC0666W7Z8h7g7ZZ7PvYVkZ2ZZtIzZkZ33unZVRZ8LZL4ZuYZl8ZCRZHmZlHZiRZVmZWYZcQZ9HZpLZmVES5Z5SeFFSUTTA89fRQ199NJESMMNsJV/1.mp4 ]]>
+<MediaFiles>
+<MediaFile height="400" width="650" bitrate="1000" type="video/mp4" delivery="progressive">
+<![CDATA[ https://embed.streamc.xyz/2.mp4 ]]>
 </MediaFile>
-
+</MediaFiles>
 </Linear>
+</Creative>
+<Creative>
+<CompanionAds>
+<Companion height="250" width="300" id="555750">
+<HTMLResource>
+<![CDATA[ ]]>
+</HTMLResource>
+</Companion>
+</CompanionAds>
 </Creative>
 </Creatives>
 </InLine>
