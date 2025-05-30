@@ -18,7 +18,7 @@
 </VideoClicks>
 <MediaFiles>
 <MediaFile height="400" width="650" bitrate="1000" type="video/mp4" delivery="progressive">
-<![CDATA[ https://embed.streamc.xyz/2.mp4 ]]>
+<![CDATA[ https://raw.githubusercontent.com/verhaye/vast-ads/refs/heads/main/2.mp4 ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
