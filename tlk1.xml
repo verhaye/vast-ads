@@ -1,0 +1,29 @@
+<VAST version="3.0">
+<Ad id="2555424">
+<InLine>
+<AdSystem>Clickadu</AdSystem>
+<AdTitle>Clickadu Advertisement</AdTitle>
+<Extensions>
+<Extension type="waterfall" fallback_index="0"/>
+</Extensions>
+<AdTitle/>
+<Creatives>
+<Creative sequence="1" id="3444567" AdID="2555423">
+<Linear skipoffset="00:00:05.000">
+<Duration>00:00:10.000</Duration>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://6789x.site/ad9namei140 ]]>
+</ClickThrough>
+</VideoClicks>
+
+<MediaFile delivery="progressive" type="video/mp4" bitrate="2400" width="1280" height="720">
+<![CDATA[ https://p-tok1.pcloud.com/cBZSf3hFcZC0666W7Z8h7g7ZZ7PvYVkZ2ZZtIzZkZ33unZVRZ8LZL4ZuYZl8ZCRZHmZlHZiRZVmZWYZcQZ9HZpLZmVES5Z5SeFFSUTTA89fRQ199NJESMMNsJV/1.mp4 ]]>
+</MediaFile>
+
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
